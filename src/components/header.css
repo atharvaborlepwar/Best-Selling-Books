@@ -1,0 +1,11 @@
+.header {
+  background-color: #f9f9f9;
+  height: 20vh;
+}
+.textField{
+background-color: #fff;
+border-radius: 25px;
+outline: none;
+border: none;
+
+}
